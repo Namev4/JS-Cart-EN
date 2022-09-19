@@ -1,0 +1,6 @@
+/*Adjust the height vw as you see fit. The object-fit: cover enables zoom instead of image stretching.*/
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}

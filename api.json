@@ -1,0 +1,65 @@
+[
+  {
+    "price": 600,
+    "id": 1,
+    "title": "MacBook",
+    "description": "Item Description",
+    "src": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "price": 4000,
+    "id": 2,
+    "title": "Setup Gamer",
+    "description": "Item Description",
+    "src": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "price": 800,
+    "id": 3,
+    "title": "Keyboard",
+    "description": "Item Description",
+    "src": "https://images.pexels.com/photos/7915211/pexels-photo-7915211.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "price": 1600,
+    "id": 4,
+    "title": "Microphone",
+    "description": "Item Description",
+    "src": "https://images.pexels.com/photos/2097428/pexels-photo-2097428.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "price": 600,
+    "id": 5,
+    "title": "Monitor",
+    "description": "Item Description",
+    "src": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "price": 300,
+    "id": 6,
+    "title": "Mouse",
+    "description": "Item Description",
+    "src": "https://images.pexels.com/photos/6236591/pexels-photo-6236591.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "price": 1600,
+    "id": 7,
+    "title": "Mousepad",
+    "description": "Item Description",
+    "src": "https://media.istockphoto.com/photos/computer-mouse-pad-with-a-silicone-pillow-picture-id119217517?b=1&k=20&m=119217517&s=612x612&w=0&h=m6Y8YRtuZhfwFsyFej-xmeVb20C0DtpN1xDFKk04FMQ="
+  },
+  {
+    "price": 1700,
+    "id": 8,
+    "title": "Camara Pro",
+    "description": "Item Description",
+    "src": "https://images.pexels.com/photos/7205285/pexels-photo-7205285.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "price": 2500,
+    "id": 9,
+    "title": "Xbox 360 Joystick",
+    "description": "Item Description",
+    "src": "https://images.pexels.com/photos/1298601/pexels-photo-1298601.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]
